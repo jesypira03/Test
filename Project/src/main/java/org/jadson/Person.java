@@ -19,7 +19,7 @@ public class Person {
      * @param name
      */
     public Person(String name) {
-        this.name = name.concat(".");
+        this.name = name.concat("!");
         new GrowthList();
     }
 
